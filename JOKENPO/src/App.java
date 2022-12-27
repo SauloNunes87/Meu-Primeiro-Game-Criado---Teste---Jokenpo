@@ -53,7 +53,7 @@ class Main {
 		}
 
 		//Print a final message for the user
-		System.out.println("Thanks for playing Rock, Paper, Scissors!");
+        System.out.println("Thanks for playing Rock, Paper, Scissors!");
 
   }
 }
